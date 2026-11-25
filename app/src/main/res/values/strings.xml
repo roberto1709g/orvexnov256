@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ORVEX</string>
+    <string name="accessibility_service_description">Permite a ORVEX automatizar acciones de llamadas y mensajes de WhatsApp después de validar el contacto y verificar la conversación visible.</string>
+</resources>
